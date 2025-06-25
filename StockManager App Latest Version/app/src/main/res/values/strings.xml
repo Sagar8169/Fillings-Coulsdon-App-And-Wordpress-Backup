@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stock Manager</string>
+    <attr name="cardBackground" format="color" />
+    <attr name="textColorPrimary" format="color" />
+
+    <string-array name="days_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+</resources>

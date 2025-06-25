@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Light Mode Colors -->
+    <color name="my_light_primary">#6200EE</color>
+    <color name="light_card">#FFFFFF</color>
+    <color name="light_text">#000000</color>
+    <color name="my_dark_primary">#FFFEFF</color>
+    <color name="dark_card">#000000</color>
+    <color name="dark_text">#FFFFFF</color>
+    <color name="universal">#9ac43d</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="green">#4CAF50</color>
+    <color name="light_green">#A5D6A7</color>
+    <color name="red">#FF0000</color>
+    <color name="light_red">#EF9A9A</color>
+
+</resources>

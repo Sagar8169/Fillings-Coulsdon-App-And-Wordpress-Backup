@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme (Same for Light & Dark Mode) -->
+    <style name="Base.Theme.StockManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="cardBackground">@color/light_card</item>
+        <item name="textColorPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.StockManager" parent="Base.Theme.StockManager" />
+
+    <color name="stock_in">#000000</color> <!-- Black for In Stock -->
+    <color name="stock_out">#FF0000</color> <!-- Red for Out of Stock -->
+    <color name="stock_track_in">#D3D3D3</color> <!-- Light Gray for In Stock -->
+    <color name="stock_track_out">#FFD3D3</color> <!-- Light Red for Out of Stock -->
+</resources>
